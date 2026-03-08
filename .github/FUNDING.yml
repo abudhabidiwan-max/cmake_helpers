@@ -1,0 +1,6 @@
+# Supported platforms: github, patreon, open_collective, ko_fi, liberapay, custom
+# This file lists contact/donation channels. Replace or add entries as needed.
+
+custom:
+  - name: "WhatsApp"
+    url: "https://wa.me/971525065671"
